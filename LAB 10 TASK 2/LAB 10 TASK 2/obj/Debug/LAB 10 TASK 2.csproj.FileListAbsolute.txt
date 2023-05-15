@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\LAB 10 TASK 2\LAB 10 TASK 2\bin\Debug\LAB 10 TASK 2.exe.config
+C:\Users\User\source\repos\LAB 10 TASK 2\LAB 10 TASK 2\bin\Debug\LAB 10 TASK 2.exe
+C:\Users\User\source\repos\LAB 10 TASK 2\LAB 10 TASK 2\bin\Debug\LAB 10 TASK 2.pdb
+C:\Users\User\source\repos\LAB 10 TASK 2\LAB 10 TASK 2\obj\Debug\LAB 10 TASK 2.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\LAB 10 TASK 2\LAB 10 TASK 2\obj\Debug\LAB 10 TASK 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\LAB 10 TASK 2\LAB 10 TASK 2\obj\Debug\LAB 10 TASK 2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LAB 10 TASK 2\LAB 10 TASK 2\obj\Debug\LAB 10 TASK 2.exe
+C:\Users\User\source\repos\LAB 10 TASK 2\LAB 10 TASK 2\obj\Debug\LAB 10 TASK 2.pdb
